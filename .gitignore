@@ -1,0 +1,14 @@
+secrets.toml
+.streamlit/secrets.toml
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+old
+test
+
+Questions.docx
+university_kg.graphml
