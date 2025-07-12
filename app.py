@@ -325,7 +325,7 @@ Here is how you MUST handle conversations:
 
 # --- Streamlit UI and Chat Logic ---
 
-st.title("🎓 AI Academic Advisor (Semantic Search)")
+st.title("🎓 AI Academic Advisor")
 st.caption("I am an AI assistant powered by your university's Knowledge Graph. Ask me anything!")
 
 st.sidebar.title("Example Questions")
