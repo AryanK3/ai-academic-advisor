@@ -1,0 +1,3343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="BSc (Hons) Information Technology">
+  <data key="d0">Program</data>
+</node>
+<node id="Information in Organisations">
+  <data key="d0">Course</data>
+</node>
+<node id="Database Systems, Information Management">
+  <data key="d0">Topic</data>
+</node>
+<node id="Database Design">
+  <data key="d0">Skill</data>
+</node>
+<node id="SQL">
+  <data key="d0">Skill</data>
+</node>
+<node id="Data Management">
+  <data key="d0">Skill</data>
+</node>
+<node id="IT Consultant">
+  <data key="d0">Career</data>
+</node>
+<node id="Database Administrator">
+  <data key="d0">Career</data>
+</node>
+<node id="Systems Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Emerging Technologies in Practice">
+  <data key="d0">Course</data>
+</node>
+<node id="Artificial Intelligence, Internet of Things, Immersive Technologies">
+  <data key="d0">Topic</data>
+</node>
+<node id="AI Concepts">
+  <data key="d0">Skill</data>
+</node>
+<node id="IoT">
+  <data key="d0">Skill</data>
+</node>
+<node id="VR/AR">
+  <data key="d0">Skill</data>
+</node>
+<node id="Robotics">
+  <data key="d0">Skill</data>
+</node>
+<node id="Design Thinking">
+  <data key="d0">Skill</data>
+</node>
+<node id="Technology Strategist">
+  <data key="d0">Career</data>
+</node>
+<node id="IT Researcher">
+  <data key="d0">Career</data>
+</node>
+<node id="Product Innovator">
+  <data key="d0">Career</data>
+</node>
+<node id="Introduction to Programming">
+  <data key="d0">Course</data>
+</node>
+<node id="Foundational Programming, Algorithms">
+  <data key="d0">Topic</data>
+</node>
+<node id="Programming Logic">
+  <data key="d0">Skill</data>
+</node>
+<node id="Python">
+  <data key="d0">Skill</data>
+</node>
+<node id="Problem-Solving">
+  <data key="d0">Skill</data>
+</node>
+<node id="Software Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Junior Programmer">
+  <data key="d0">Career</data>
+</node>
+<node id="Computing Systems Architecture and Operating Systems">
+  <data key="d0">Course</data>
+</node>
+<node id="Computer Architecture, Operating Systems, Networking Fundamentals">
+  <data key="d0">Topic</data>
+</node>
+<node id="C Programming">
+  <data key="d0">Skill</data>
+</node>
+<node id="Bash">
+  <data key="d0">Skill</data>
+</node>
+<node id="Systems Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Systems Administrator">
+  <data key="d0">Career</data>
+</node>
+<node id="Network Engineer">
+  <data key="d0">Career</data>
+</node>
+<node id="Web Applications and Databases">
+  <data key="d0">Course</data>
+</node>
+<node id="Web Application Architecture, Database Management">
+  <data key="d0">Topic</data>
+</node>
+<node id="Web Development">
+  <data key="d0">Skill</data>
+</node>
+<node id="Database Integration">
+  <data key="d0">Skill</data>
+</node>
+<node id="Server-Side Scripting">
+  <data key="d0">Skill</data>
+</node>
+<node id="Web Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Full-Stack Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Project Management and Professional Practice">
+  <data key="d0">Course</data>
+</node>
+<node id="IT Project Lifecycle, Professionalism in IT">
+  <data key="d0">Topic</data>
+</node>
+<node id="Project Management">
+  <data key="d0">Skill</data>
+</node>
+<node id="Agile/Scrum">
+  <data key="d0">Skill</data>
+</node>
+<node id="Professional Ethics">
+  <data key="d0">Skill</data>
+</node>
+<node id="IT Project Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Scrum Master">
+  <data key="d0">Career</data>
+</node>
+<node id="Tech Consultant">
+  <data key="d0">Career</data>
+</node>
+<node id="Data Management and Business Intelligence">
+  <data key="d0">Course</data>
+</node>
+<node id="Business Intelligence, Data Management">
+  <data key="d0">Topic</data>
+</node>
+<node id="Data Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Business Intelligence Tools">
+  <data key="d0">Skill</data>
+</node>
+<node id="Data Warehousing">
+  <data key="d0">Skill</data>
+</node>
+<node id="Data Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="BI Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Business Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Web-based Mobile App Development">
+  <data key="d0">Course</data>
+</node>
+<node id="Mobile Application Design, Web-to-Mobile Technologies">
+  <data key="d0">Topic</data>
+</node>
+<node id="Mobile App Development">
+  <data key="d0">Skill</data>
+</node>
+<node id="Cross-Platform Development">
+  <data key="d0">Skill</data>
+</node>
+<node id="Mobile Application Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="UI/UX Designer">
+  <data key="d0">Career</data>
+</node>
+<node id="UG Individual Project">
+  <data key="d0">Course</data>
+</node>
+<node id="(Varies by project)">
+  <data key="d0">Topic</data>
+</node>
+<node id="Research">
+  <data key="d0">Skill</data>
+</node>
+<node id="Technical Writing">
+  <data key="d0">Skill</data>
+</node>
+<node id="Strategic Management and Information Systems">
+  <data key="d0">Course</data>
+</node>
+<node id="Information Systems Strategy, IT Governance">
+  <data key="d0">Topic</data>
+</node>
+<node id="Strategic Planning">
+  <data key="d0">Skill</data>
+</node>
+<node id="IT Strategy">
+  <data key="d0">Skill</data>
+</node>
+<node id="IT Strategy Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Management Consultant">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Business Information Systems">
+  <data key="d0">Program</data>
+</node>
+<node id="Information Systems, Organisational Structure">
+  <data key="d0">Topic</data>
+</node>
+<node id="Database concepts">
+  <data key="d0">Skill</data>
+</node>
+<node id="Information Systems theory">
+  <data key="d0">Skill</data>
+</node>
+<node id="Junior IT Consultant">
+  <data key="d0">Career</data>
+</node>
+<node id="Foundations of Informatics">
+  <data key="d0">Course</data>
+</node>
+<node id="Informatics, Systems Development Lifecycle">
+  <data key="d0">Topic</data>
+</node>
+<node id="Systems analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Programming fundamentals">
+  <data key="d0">Skill</data>
+</node>
+<node id="Junior Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Information Systems Analysis and Design">
+  <data key="d0">Course</data>
+</node>
+<node id="Systems Design Methodologies, Requirements Gathering">
+  <data key="d0">Topic</data>
+</node>
+<node id="UML">
+  <data key="d0">Skill</data>
+</node>
+<node id="Process Modelling">
+  <data key="d0">Skill</data>
+</node>
+<node id="Database Systems: Design and Implementation">
+  <data key="d0">Course</data>
+</node>
+<node id="Relational Databases, Database Management">
+  <data key="d0">Topic</data>
+</node>
+<node id="Normalisation">
+  <data key="d0">Skill</data>
+</node>
+<node id="Data Modeler">
+  <data key="d0">Career</data>
+</node>
+<node id="Strategic Information Systems Management">
+  <data key="d0">Course</data>
+</node>
+<node id="Enterprise Systems, IT Governance">
+  <data key="d0">Topic</data>
+</node>
+<node id="Governance">
+  <data key="d0">Skill</data>
+</node>
+<node id="IT Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Technology Consultant">
+  <data key="d0">Career</data>
+</node>
+<node id="Business Intelligence">
+  <data key="d0">Course</data>
+</node>
+<node id="Decision Support Systems, Business Analytics">
+  <data key="d0">Topic</data>
+</node>
+<node id="Data Mining">
+  <data key="d0">Skill</data>
+</node>
+<node id="BI Tools">
+  <data key="d0">Skill</data>
+</node>
+<node id="BI Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Cyber Security and Digital Forensics">
+  <data key="d0">Program</data>
+</node>
+<node id="Programming for Data Communications and Networks">
+  <data key="d0">Course</data>
+</node>
+<node id="Network Protocols, Secure Coding">
+  <data key="d0">Topic</data>
+</node>
+<node id="Network Programming">
+  <data key="d0">Skill</data>
+</node>
+<node id="Data Structures">
+  <data key="d0">Skill</data>
+</node>
+<node id="Junior Security Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Network Programmer">
+  <data key="d0">Career</data>
+</node>
+<node id="Computer Networks">
+  <data key="d0">Course</data>
+</node>
+<node id="LAN/WAN Technologies, Network Models">
+  <data key="d0">Topic</data>
+</node>
+<node id="Network architecture">
+  <data key="d0">Skill</data>
+</node>
+<node id="TCP/IP">
+  <data key="d0">Skill</data>
+</node>
+<node id="Routing &amp; Switching">
+  <data key="d0">Skill</data>
+</node>
+<node id="Network Administrator">
+  <data key="d0">Career</data>
+</node>
+<node id="Junior Network Engineer">
+  <data key="d0">Career</data>
+</node>
+<node id="Network and Protocol Analysis">
+  <data key="d0">Course</data>
+</node>
+<node id="Network Traffic Analysis, Protocol Security">
+  <data key="d0">Topic</data>
+</node>
+<node id="Packet analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Wireshark">
+  <data key="d0">Skill</data>
+</node>
+<node id="Intrusion Detection">
+  <data key="d0">Skill</data>
+</node>
+<node id="Security Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Network Forensics Investigator">
+  <data key="d0">Career</data>
+</node>
+<node id="Cyber Security and Digital Forensic Compliance">
+  <data key="d0">Course</data>
+</node>
+<node id="Information Security Standards, Cyber Law">
+  <data key="d0">Topic</data>
+</node>
+<node id="Security Policies">
+  <data key="d0">Skill</data>
+</node>
+<node id="ISO 27001">
+  <data key="d0">Skill</data>
+</node>
+<node id="Legal Frameworks">
+  <data key="d0">Skill</data>
+</node>
+<node id="Compliance Officer">
+  <data key="d0">Career</data>
+</node>
+<node id="Security Auditor">
+  <data key="d0">Career</data>
+</node>
+<node id="Defensive Security">
+  <data key="d0">Course</data>
+</node>
+<node id="Network Defence, Security Information and Event Management">
+  <data key="d0">Topic</data>
+</node>
+<node id="Firewalls">
+  <data key="d0">Skill</data>
+</node>
+<node id="IDS/IPS">
+  <data key="d0">Skill</data>
+</node>
+<node id="SIEM tools">
+  <data key="d0">Skill</data>
+</node>
+<node id="Threat Hunting">
+  <data key="d0">Skill</data>
+</node>
+<node id="Security Operations Center (SOC) Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Security Engineer">
+  <data key="d0">Career</data>
+</node>
+<node id="Memory Analysis">
+  <data key="d0">Course</data>
+</node>
+<node id="Live System Forensics, Malware Analysis">
+  <data key="d0">Topic</data>
+</node>
+<node id="Volatile data collection">
+  <data key="d0">Skill</data>
+</node>
+<node id="Memory forensics tools">
+  <data key="d0">Skill</data>
+</node>
+<node id="Digital Forensics Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Incident Responder">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Computer Science">
+  <data key="d0">Program</data>
+</node>
+<node id="Programming">
+  <data key="d0">Course</data>
+</node>
+<node id="Object-Oriented Programming, Data Structures">
+  <data key="d0">Topic</data>
+</node>
+<node id="Programming Fundamentals (e.g.">
+  <data key="d0">Skill</data>
+</node>
+<node id="Python)">
+  <data key="d0">Skill</data>
+</node>
+<node id="Logic">
+  <data key="d0">Skill</data>
+</node>
+<node id="Algorithms">
+  <data key="d0">Skill</data>
+</node>
+<node id="Junior Software Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Application Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Design and Development of Applications">
+  <data key="d0">Course</data>
+</node>
+<node id="Prototyping, Application Design">
+  <data key="d0">Topic</data>
+</node>
+<node id="Software Development Lifecycle">
+  <data key="d0">Skill</data>
+</node>
+<node id="UI/UX Design">
+  <data key="d0">Skill</data>
+</node>
+<node id="Software Engineer">
+  <data key="d0">Career</data>
+</node>
+<node id="UI/UX Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Operating Systems and Computer Networks">
+  <data key="d0">Course</data>
+</node>
+<node id="Process Management, Network Architecture">
+  <data key="d0">Topic</data>
+</node>
+<node id="OS Concepts">
+  <data key="d0">Skill</data>
+</node>
+<node id="Concurrency">
+  <data key="d0">Skill</data>
+</node>
+<node id="Network Protocols">
+  <data key="d0">Skill</data>
+</node>
+<node id="Systems Engineer">
+  <data key="d0">Career</data>
+</node>
+<node id="Data Science and Machine Learning">
+  <data key="d0">Course</data>
+</node>
+<node id="Supervised/Unsupervised Learning, Data Modelling">
+  <data key="d0">Topic</data>
+</node>
+<node id="Machine Learning Algorithms">
+  <data key="d0">Skill</data>
+</node>
+<node id="Python (Pandas">
+  <data key="d0">Skill</data>
+</node>
+<node id="Scikit-learn)">
+  <data key="d0">Skill</data>
+</node>
+<node id="Data Scientist">
+  <data key="d0">Career</data>
+</node>
+<node id="Machine Learning Engineer">
+  <data key="d0">Career</data>
+</node>
+<node id="Advanced Topics in Data Science and Artificial Intelligence">
+  <data key="d0">Course</data>
+</node>
+<node id="Neural Networks, AI Ethics">
+  <data key="d0">Topic</data>
+</node>
+<node id="Deep Learning">
+  <data key="d0">Skill</data>
+</node>
+<node id="Natural Language Processing (NLP)">
+  <data key="d0">Skill</data>
+</node>
+<node id="AI Specialist">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Computer Science (AI Pathway)">
+  <data key="d0">Program</data>
+</node>
+<node id="Artificial Intelligence">
+  <data key="d0">Course</data>
+</node>
+<node id="Heuristics, Logic Programming">
+  <data key="d0">Topic</data>
+</node>
+<node id="Search Algorithms">
+  <data key="d0">Skill</data>
+</node>
+<node id="Knowledge Representation">
+  <data key="d0">Skill</data>
+</node>
+<node id="AI Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Robotics Engineer">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Computer Science (Cloud Pathway)">
+  <data key="d0">Program</data>
+</node>
+<node id="Cloud Computing">
+  <data key="d0">Course</data>
+</node>
+<node id="IaaS, PaaS, SaaS, Microservices">
+  <data key="d0">Topic</data>
+</node>
+<node id="AWS/Azure/GCP">
+  <data key="d0">Skill</data>
+</node>
+<node id="Virtualization">
+  <data key="d0">Skill</data>
+</node>
+<node id="Containers">
+  <data key="d0">Skill</data>
+</node>
+<node id="Cloud Engineer">
+  <data key="d0">Career</data>
+</node>
+<node id="DevOps Engineer">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Computer Science (Games Pathway)">
+  <data key="d0">Program</data>
+</node>
+<node id="Games Programming">
+  <data key="d0">Course</data>
+</node>
+<node id="Real-time Rendering, Gameplay Mechanics">
+  <data key="d0">Topic</data>
+</node>
+<node id="Game Engines (Unity/Unreal)">
+  <data key="d0">Skill</data>
+</node>
+<node id="3D Graphics">
+  <data key="d0">Skill</data>
+</node>
+<node id="Game Physics">
+  <data key="d0">Skill</data>
+</node>
+<node id="Game Developer">
+  <data key="d0">Career</data>
+</node>
+<node id="Graphics Programmer">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Psychology with...">
+  <data key="d0">Program</data>
+</node>
+<node id="Mind &amp; Behaviour in Context">
+  <data key="d0">Course</data>
+</node>
+<node id="Introduction to Psychology, Biopsychology, Cognition">
+  <data key="d0">Topic</data>
+</node>
+<node id="Foundational Psychology Knowledge">
+  <data key="d0">Skill</data>
+</node>
+<node id="Critical Thinking">
+  <data key="d0">Skill</data>
+</node>
+<node id="Research Methods and Design in Psychology">
+  <data key="d0">Course</data>
+</node>
+<node id="Quantitative &amp; Qualitative Methods, Ethics">
+  <data key="d0">Topic</data>
+</node>
+<node id="Research Design">
+  <data key="d0">Skill</data>
+</node>
+<node id="Statistical Analysis (SPSS)">
+  <data key="d0">Skill</data>
+</node>
+<node id="Report Writing">
+  <data key="d0">Skill</data>
+</node>
+<node id="Research Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="Social, Personality, and Developmental Psychology">
+  <data key="d0">Course</data>
+</node>
+<node id="Social Influence, Personality Theories, Child Development">
+  <data key="d0">Topic</data>
+</node>
+<node id="Interpersonal Dynamics">
+  <data key="d0">Skill</data>
+</node>
+<node id="Lifespan Development Theory">
+  <data key="d0">Skill</data>
+</node>
+<node id="Social Work Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="HR Coordinator">
+  <data key="d0">Career</data>
+</node>
+<node id="Brain, Body and Mind">
+  <data key="d0">Course</data>
+</node>
+<node id="Cognitive Neuroscience, Psychophysiology">
+  <data key="d0">Topic</data>
+</node>
+<node id="Neuropsychology">
+  <data key="d0">Skill</data>
+</node>
+<node id="Biological basis of behaviour">
+  <data key="d0">Skill</data>
+</node>
+<node id="Lab Technician">
+  <data key="d0">Career</data>
+</node>
+<node id="Clinical Research Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="Psychology Dissertation">
+  <data key="d0">Course</data>
+</node>
+<node id="Specialized topic chosen by student">
+  <data key="d0">Topic</data>
+</node>
+<node id="Independent Research">
+  <data key="d0">Skill</data>
+</node>
+<node id="Advanced Data Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Academic Writing">
+  <data key="d0">Skill</data>
+</node>
+<node id="BSc (Hons) Psychology with Counselling Skills">
+  <data key="d0">Program</data>
+</node>
+<node id="Counselling Theory and Practice">
+  <data key="d0">Course</data>
+</node>
+<node id="Person-Centred Therapy, CBT, Psychodynamic Theory">
+  <data key="d0">Topic</data>
+</node>
+<node id="Active Listening">
+  <data key="d0">Skill</data>
+</node>
+<node id="Empathy">
+  <data key="d0">Skill</data>
+</node>
+<node id="Counselling Frameworks">
+  <data key="d0">Skill</data>
+</node>
+<node id="Counsellor (with further training)">
+  <data key="d0">Career</data>
+</node>
+<node id="Mental Health Support Worker">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Psychology with Human Resource Management">
+  <data key="d0">Program</data>
+</node>
+<node id="Organisational Behaviour / Work Psychology">
+  <data key="d0">Course</data>
+</node>
+<node id="Workplace Motivation, Leadership Styles, Personnel Selection">
+  <data key="d0">Topic</data>
+</node>
+<node id="Team Dynamics">
+  <data key="d0">Skill</data>
+</node>
+<node id="Motivation">
+  <data key="d0">Skill</data>
+</node>
+<node id="Leadership">
+  <data key="d0">Skill</data>
+</node>
+<node id="Recruitment">
+  <data key="d0">Skill</data>
+</node>
+<node id="HR Specialist">
+  <data key="d0">Career</data>
+</node>
+<node id="Organisational Development Coordinator">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Psychology with Marketing">
+  <data key="d0">Program</data>
+</node>
+<node id="Consumer Behaviour">
+  <data key="d0">Skill</data>
+</node>
+<node id="Psychology of Advertising, Neuromarketing">
+  <data key="d0">Topic</data>
+</node>
+<node id="Market Research">
+  <data key="d0">Skill</data>
+</node>
+<node id="Buyer Decision Processes">
+  <data key="d0">Skill</data>
+</node>
+<node id="Branding Psychology">
+  <data key="d0">Skill</data>
+</node>
+<node id="Market Researcher">
+  <data key="d0">Career</data>
+</node>
+<node id="Brand Strategist">
+  <data key="d0">Career</data>
+</node>
+<node id="Advertising Planner">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Psychology with Education">
+  <data key="d0">Program</data>
+</node>
+<node id="Psychology in Education">
+  <data key="d0">Course</data>
+</node>
+<node id="Cognitive Development in Education, Educational Neuroscience">
+  <data key="d0">Topic</data>
+</node>
+<node id="Learning Theories">
+  <data key="d0">Skill</data>
+</node>
+<node id="Classroom Management">
+  <data key="d0">Skill</data>
+</node>
+<node id="Child Development">
+  <data key="d0">Skill</data>
+</node>
+<node id="Educational Psychologist (with further training)">
+  <data key="d0">Career</data>
+</node>
+<node id="Learning Support Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="BA (Hons) Business Management">
+  <data key="d0">Program</data>
+</node>
+<node id="Management in the Global Environment">
+  <data key="d0">Course</data>
+</node>
+<node id="Organisational Theory, Business Ethics">
+  <data key="d0">Topic</data>
+</node>
+<node id="Business Functions">
+  <data key="d0">Skill</data>
+</node>
+<node id="Org. Structure">
+  <data key="d0">Skill</data>
+</node>
+<node id="CSR">
+  <data key="d0">Skill</data>
+</node>
+<node id="Management Trainee">
+  <data key="d0">Career</data>
+</node>
+<node id="Junior Business Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Marketing Theory and Practice">
+  <data key="d0">Course</data>
+</node>
+<node id="Principles of Marketing, Market Analysis">
+  <data key="d0">Topic</data>
+</node>
+<node id="Marketing Mix">
+  <data key="d0">Skill</data>
+</node>
+<node id="Market Segmentation">
+  <data key="d0">Skill</data>
+</node>
+<node id="SWOT Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Marketing Coordinator">
+  <data key="d0">Career</data>
+</node>
+<node id="Sales Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="Operations Management">
+  <data key="d0">Course</data>
+</node>
+<node id="Logistics, Lean Manufacturing, Quality Management">
+  <data key="d0">Topic</data>
+</node>
+<node id="Supply Chain">
+  <data key="d0">Skill</data>
+</node>
+<node id="Quality Control">
+  <data key="d0">Skill</data>
+</node>
+<node id="Process Improvement">
+  <data key="d0">Skill</data>
+</node>
+<node id="Operations Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Supply Chain Coordinator">
+  <data key="d0">Career</data>
+</node>
+<node id="Organisational Behaviour">
+  <data key="d0">Course</data>
+</node>
+<node id="Workplace Psychology, Group Dynamics">
+  <data key="d0">Topic</data>
+</node>
+<node id="HR Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="Corporate Trainer">
+  <data key="d0">Career</data>
+</node>
+<node id="Strategic Management">
+  <data key="d0">Course</data>
+</node>
+<node id="Corporate Strategy, PESTLE/Porter's Five Forces">
+  <data key="d0">Topic</data>
+</node>
+<node id="Strategic Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Competitive Strategy">
+  <data key="d0">Skill</data>
+</node>
+<node id="Business Strategist">
+  <data key="d0">Career</data>
+</node>
+<node id="BA (Hons) Business Management (Finance Pathway)">
+  <data key="d0">Program</data>
+</node>
+<node id="Business Finance">
+  <data key="d0">Course</data>
+</node>
+<node id="Corporate Finance, Financial Markets">
+  <data key="d0">Topic</data>
+</node>
+<node id="Investment Appraisal">
+  <data key="d0">Skill</data>
+</node>
+<node id="Capital Budgeting">
+  <data key="d0">Skill</data>
+</node>
+<node id="Risk Management">
+  <data key="d0">Skill</data>
+</node>
+<node id="Financial Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Corporate Finance Trainee">
+  <data key="d0">Career</data>
+</node>
+<node id="BA (Hons) Business Management (HRM Pathway)">
+  <data key="d0">Program</data>
+</node>
+<node id="Human Resource Management">
+  <data key="d0">Course</data>
+</node>
+<node id="Talent Management, Employment Law">
+  <data key="d0">Topic</data>
+</node>
+<node id="Training &amp; Development">
+  <data key="d0">Skill</data>
+</node>
+<node id="Employee Relations">
+  <data key="d0">Skill</data>
+</node>
+<node id="HR Officer">
+  <data key="d0">Career</data>
+</node>
+<node id="Recruiter">
+  <data key="d0">Career</data>
+</node>
+<node id="L&amp;D Coordinator">
+  <data key="d0">Career</data>
+</node>
+<node id="BA (Hons) International Business">
+  <data key="d0">Program</data>
+</node>
+<node id="Globalization, International Trade">
+  <data key="d0">Topic</data>
+</node>
+<node id="Cross-cultural awareness">
+  <data key="d0">Skill</data>
+</node>
+<node id="Global market analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="International Sales Trainee">
+  <data key="d0">Career</data>
+</node>
+<node id="Export Coordinator">
+  <data key="d0">Career</data>
+</node>
+<node id="International Business Environment">
+  <data key="d0">Course</data>
+</node>
+<node id="Political &amp; Economic Risk, International Trade Law">
+  <data key="d0">Topic</data>
+</node>
+<node id="PESTLE Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Foreign Market Entry Strategy">
+  <data key="d0">Skill</data>
+</node>
+<node id="International Business Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Market Entry Specialist">
+  <data key="d0">Career</data>
+</node>
+<node id="Global Strategic Management">
+  <data key="d0">Course</data>
+</node>
+<node id="Multinational Enterprise Strategy, Global Value Chains">
+  <data key="d0">Topic</data>
+</node>
+<node id="Global Strategy Formulation">
+  <data key="d0">Skill</data>
+</node>
+<node id="M&amp;A">
+  <data key="d0">Skill</data>
+</node>
+<node id="Alliances">
+  <data key="d0">Skill</data>
+</node>
+<node id="Global Strategist">
+  <data key="d0">Career</data>
+</node>
+<node id="International Management Consultant">
+  <data key="d0">Career</data>
+</node>
+<node id="BA (Hons) International Tourism Management">
+  <data key="d0">Program</data>
+</node>
+<node id="The International Tourism Industry and Employability">
+  <data key="d0">Course</data>
+</node>
+<node id="Structure of Tourism, Tourism Economics">
+  <data key="d0">Topic</data>
+</node>
+<node id="Tourism Sector Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Career Planning">
+  <data key="d0">Skill</data>
+</node>
+<node id="Tourism Officer">
+  <data key="d0">Career</data>
+</node>
+<node id="Travel Agent">
+  <data key="d0">Career</data>
+</node>
+<node id="Responsible Tourism Management">
+  <data key="d0">Course</data>
+</node>
+<node id="Sustainable Development, Community-based Tourism">
+  <data key="d0">Topic</data>
+</node>
+<node id="Sustainability">
+  <data key="d0">Skill</data>
+</node>
+<node id="Ecotourism">
+  <data key="d0">Skill</data>
+</node>
+<node id="CSR in Tourism">
+  <data key="d0">Skill</data>
+</node>
+<node id="Sustainability Coordinator">
+  <data key="d0">Career</data>
+</node>
+<node id="Responsible Tourism Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Tourism Policy Making">
+  <data key="d0">Course</data>
+</node>
+<node id="Governance in Tourism, Destination Planning">
+  <data key="d0">Topic</data>
+</node>
+<node id="Policy Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Stakeholder Management">
+  <data key="d0">Skill</data>
+</node>
+<node id="Tourism Policy Advisor">
+  <data key="d0">Career</data>
+</node>
+<node id="Destination Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Creative Branding in Tourism">
+  <data key="d0">Course</data>
+</node>
+<node id="Place Branding, Tourism Marketing">
+  <data key="d0">Topic</data>
+</node>
+<node id="Destination Branding">
+  <data key="d0">Skill</data>
+</node>
+<node id="Digital Marketing">
+  <data key="d0">Skill</data>
+</node>
+<node id="Niche Tourism">
+  <data key="d0">Skill</data>
+</node>
+<node id="Destination Marketing Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Tourism Brand Strategist">
+  <data key="d0">Career</data>
+</node>
+<node id="BA (Hons) Accounting and Finance">
+  <data key="d0">Program</data>
+</node>
+<node id="Financial Accounting">
+  <data key="d0">Course</data>
+</node>
+<node id="IFRS, Accounting Principles">
+  <data key="d0">Topic</data>
+</node>
+<node id="Bookkeeping">
+  <data key="d0">Skill</data>
+</node>
+<node id="Double-Entry">
+  <data key="d0">Skill</data>
+</node>
+<node id="Financial Statement Preparation">
+  <data key="d0">Skill</data>
+</node>
+<node id="Junior Accountant">
+  <data key="d0">Career</data>
+</node>
+<node id="Accounts Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="Management Accounting">
+  <data key="d0">Course</data>
+</node>
+<node id="Cost-Volume-Profit Analysis, Budgetary Control">
+  <data key="d0">Topic</data>
+</node>
+<node id="Costing">
+  <data key="d0">Skill</data>
+</node>
+<node id="Budgeting">
+  <data key="d0">Skill</data>
+</node>
+<node id="CVP Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Trainee Management Accountant">
+  <data key="d0">Career</data>
+</node>
+<node id="Cost Accountant">
+  <data key="d0">Career</data>
+</node>
+<node id="Financial Reporting">
+  <data key="d0">Course</data>
+</node>
+<node id="Consolidated Financial Statements, Advanced IFRS">
+  <data key="d0">Topic</data>
+</node>
+<node id="Advanced Financial Statements">
+  <data key="d0">Skill</data>
+</node>
+<node id="Group Accounts">
+  <data key="d0">Skill</data>
+</node>
+<node id="Financial Accountant">
+  <data key="d0">Career</data>
+</node>
+<node id="Audit Associate">
+  <data key="d0">Career</data>
+</node>
+<node id="Taxation">
+  <data key="d0">Course</data>
+</node>
+<node id="Income Tax, Corporation Tax, VAT">
+  <data key="d0">Topic</data>
+</node>
+<node id="Personal &amp; Corporate Tax Calculation">
+  <data key="d0">Skill</data>
+</node>
+<node id="Tax Law">
+  <data key="d0">Skill</data>
+</node>
+<node id="Tax Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="Junior Tax Advisor">
+  <data key="d0">Career</data>
+</node>
+<node id="Audit and Assurance">
+  <data key="d0">Course</data>
+</node>
+<node id="International Standards on Auditing (ISAs), Audit Ethics">
+  <data key="d0">Topic</data>
+</node>
+<node id="Audit Process">
+  <data key="d0">Skill</data>
+</node>
+<node id="Internal Controls">
+  <data key="d0">Skill</data>
+</node>
+<node id="Audit Risk">
+  <data key="d0">Skill</data>
+</node>
+<node id="Audit Trainee">
+  <data key="d0">Career</data>
+</node>
+<node id="Internal Auditor">
+  <data key="d0">Career</data>
+</node>
+<node id="Financial Management">
+  <data key="d0">Course</data>
+</node>
+<node id="Advanced Corporate Finance, Risk Management">
+  <data key="d0">Topic</data>
+</node>
+<node id="Working Capital Management">
+  <data key="d0">Skill</data>
+</node>
+<node id="Mergers &amp; Acquisitions">
+  <data key="d0">Skill</data>
+</node>
+<node id="Corporate Finance Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Treasury Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="BSc (Hons) Business Accounting">
+  <data key="d0">Program</data>
+</node>
+<node id="Corporate Responsibility and Ethics">
+  <data key="d0">Course</data>
+</node>
+<node id="Business Ethics, Corporate Governance">
+  <data key="d0">Topic</data>
+</node>
+<node id="Stakeholder Theory">
+  <data key="d0">Skill</data>
+</node>
+<node id="Ethical Frameworks">
+  <data key="d0">Skill</data>
+</node>
+<node id="CSR Reporting">
+  <data key="d0">Skill</data>
+</node>
+<node id="CSR Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Ethics Officer">
+  <data key="d0">Career</data>
+</node>
+<node id="Accounting Information Systems">
+  <data key="d0">Course</data>
+</node>
+<node id="Enterprise Resource Planning, AIS Design">
+  <data key="d0">Topic</data>
+</node>
+<node id="ERP Systems">
+  <data key="d0">Skill</data>
+</node>
+<node id="Data Analytics in Accounting">
+  <data key="d0">Skill</data>
+</node>
+<node id="System Controls">
+  <data key="d0">Skill</data>
+</node>
+<node id="Systems Accountant">
+  <data key="d0">Career</data>
+</node>
+<node id="IT Auditor">
+  <data key="d0">Career</data>
+</node>
+<node id="Applied Financial Accounting">
+  <data key="d0">Course</data>
+</node>
+<node id="Advanced Financial Reporting Standards">
+  <data key="d0">Topic</data>
+</node>
+<node id="Complex Financial Instruments">
+  <data key="d0">Skill</data>
+</node>
+<node id="IFRS Application">
+  <data key="d0">Skill</data>
+</node>
+<node id="Technical Accountant">
+  <data key="d0">Career</data>
+</node>
+<node id="Financial Reporting Specialist">
+  <data key="d0">Career</data>
+</node>
+<node id="Artificial Intelligence and Data Analytics">
+  <data key="d0">Course</data>
+</node>
+<node id="AI in Auditing, Predictive Analytics">
+  <data key="d0">Topic</data>
+</node>
+<node id="Machine Learning in Finance">
+  <data key="d0">Skill</data>
+</node>
+<node id="Data Visualisation (Tableau/PowerBI)">
+  <data key="d0">Skill</data>
+</node>
+<node id="Finance Data Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Forensic Accountant">
+  <data key="d0">Career</data>
+</node>
+<node id="BA (Hons) Marketing">
+  <data key="d0">Program</data>
+</node>
+<node id="Foundational Marketing, Marketing Environment">
+  <data key="d0">Topic</data>
+</node>
+<node id="Market Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Marketing Principles">
+  <data key="d0">Skill</data>
+</node>
+<node id="Marketing Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="Brand Coordinator">
+  <data key="d0">Career</data>
+</node>
+<node id="Globalization, International Management">
+  <data key="d0">Topic</data>
+</node>
+<node id="Cross-Cultural Communication">
+  <data key="d0">Skill</data>
+</node>
+<node id="Global Business Strategy">
+  <data key="d0">Skill</data>
+</node>
+<node id="International Business Development">
+  <data key="d0">Career</data>
+</node>
+<node id="Financial Performance Management">
+  <data key="d0">Course</data>
+</node>
+<node id="Business Finance, Accounting Principles">
+  <data key="d0">Topic</data>
+</node>
+<node id="Financial Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Performance Metrics">
+  <data key="d0">Skill</data>
+</node>
+<node id="Marketing Accountant">
+  <data key="d0">Career</data>
+</node>
+<node id="Data and Digital Technologies">
+  <data key="d0">Course</data>
+</node>
+<node id="Business Data, Digital Transformation">
+  <data key="d0">Topic</data>
+</node>
+<node id="Digital Literacy">
+  <data key="d0">Skill</data>
+</node>
+<node id="Information Systems">
+  <data key="d0">Skill</data>
+</node>
+<node id="Digital Marketing Assistant">
+  <data key="d0">Career</data>
+</node>
+<node id="Market Research and Insights">
+  <data key="d0">Course</data>
+</node>
+<node id="Quantitative &amp; Qualitative Research, Data Interpretation">
+  <data key="d0">Topic</data>
+</node>
+<node id="Survey Design">
+  <data key="d0">Skill</data>
+</node>
+<node id="Market Research Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Consumer Insights Analyst">
+  <data key="d0">Career</data>
+</node>
+<node id="Consumer Behaviour and Socially Responsible Consumption">
+  <data key="d0">Course</data>
+</node>
+<node id="Consumer Decision Making, Sustainable Marketing">
+  <data key="d0">Topic</data>
+</node>
+<node id="Consumer Psychology">
+  <data key="d0">Skill</data>
+</node>
+<node id="Ethical Marketing">
+  <data key="d0">Skill</data>
+</node>
+<node id="Trend Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Brand Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Consumer Insights Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Marketing and Digital Strategy">
+  <data key="d0">Course</data>
+</node>
+<node id="Digital Marketing Channels, Strategic Planning">
+  <data key="d0">Topic</data>
+</node>
+<node id="SEO/SEM">
+  <data key="d0">Skill</data>
+</node>
+<node id="Content Strategy">
+  <data key="d0">Skill</data>
+</node>
+<node id="Digital Marketing Strategist">
+  <data key="d0">Career</data>
+</node>
+<node id="SEO Specialist">
+  <data key="d0">Career</data>
+</node>
+<node id="Customer Experience Management">
+  <data key="d0">Course</data>
+</node>
+<node id="Customer Relationship Management, Service Quality">
+  <data key="d0">Topic</data>
+</node>
+<node id="Customer Journey Mapping">
+  <data key="d0">Skill</data>
+</node>
+<node id="CRM">
+  <data key="d0">Skill</data>
+</node>
+<node id="Service Design">
+  <data key="d0">Skill</data>
+</node>
+<node id="CX Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="CRM Specialist">
+  <data key="d0">Career</data>
+</node>
+<node id="Account Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Branding and Marketing Communications">
+  <data key="d0">Course</data>
+</node>
+<node id="Brand Identity, IMC Campaigns, Public Relations">
+  <data key="d0">Topic</data>
+</node>
+<node id="Brand Strategy">
+  <data key="d0">Skill</data>
+</node>
+<node id="Integrated Marketing Communications (IMC)">
+  <data key="d0">Skill</data>
+</node>
+<node id="Advertising">
+  <data key="d0">Skill</data>
+</node>
+<node id="Communications Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Advertising Executive">
+  <data key="d0">Career</data>
+</node>
+<node id="Marketing Consultancy Project">
+  <data key="d0">Course</data>
+</node>
+<node id="Consultancy, Project-Based Work">
+  <data key="d0">Topic</data>
+</node>
+<node id="Client Management">
+  <data key="d0">Skill</data>
+</node>
+<node id="Consulting">
+  <data key="d0">Skill</data>
+</node>
+<node id="Marketing Consultant">
+  <data key="d0">Career</data>
+</node>
+<node id="Business Advisor">
+  <data key="d0">Career</data>
+</node>
+<node id="BA (Hons) Graphic Design">
+  <data key="d0">Program</data>
+</node>
+<node id="Understanding Visual Communication">
+  <data key="d0">Course</data>
+</node>
+<node id="Visual Culture, Design History">
+  <data key="d0">Topic</data>
+</node>
+<node id="Visual Analysis">
+  <data key="d0">Skill</data>
+</node>
+<node id="Semiotics">
+  <data key="d0">Skill</data>
+</node>
+<node id="Design Theory">
+  <data key="d0">Skill</data>
+</node>
+<node id="Design Critic">
+  <data key="d0">Career</data>
+</node>
+<node id="Design Researcher">
+  <data key="d0">Career</data>
+</node>
+<node id="Graphic Design Creative Workshops">
+  <data key="d0">Course</data>
+</node>
+<node id="Analogue and Digital Design Processes">
+  <data key="d0">Topic</data>
+</node>
+<node id="Printmaking">
+  <data key="d0">Skill</data>
+</node>
+<node id="Photography">
+  <data key="d0">Skill</data>
+</node>
+<node id="Digital Illustration">
+  <data key="d0">Skill</data>
+</node>
+<node id="Typography">
+  <data key="d0">Skill</data>
+</node>
+<node id="Graphic Designer">
+  <data key="d0">Career</data>
+</node>
+<node id="Illustrator">
+  <data key="d0">Career</data>
+</node>
+<node id="Print Designer">
+  <data key="d0">Career</data>
+</node>
+<node id="Creative Typography">
+  <data key="d0">Course</data>
+</node>
+<node id="Type Anatomy, Typographic Hierarchy">
+  <data key="d0">Topic</data>
+</node>
+<node id="Layout Design">
+  <data key="d0">Skill</data>
+</node>
+<node id="Font Pairing">
+  <data key="d0">Skill</data>
+</node>
+<node id="Typographer">
+  <data key="d0">Career</data>
+</node>
+<node id="Editorial Designer">
+  <data key="d0">Career</data>
+</node>
+<node id="Design Exploration">
+  <data key="d0">Course</data>
+</node>
+<node id="Design Process, Brainstorming Techniques">
+  <data key="d0">Topic</data>
+</node>
+<node id="Ideation">
+  <data key="d0">Skill</data>
+</node>
+<node id="Sketching">
+  <data key="d0">Skill</data>
+</node>
+<node id="Creative Problem-Solving">
+  <data key="d0">Skill</data>
+</node>
+<node id="Concept Artist">
+  <data key="d0">Career</data>
+</node>
+<node id="Junior Designer">
+  <data key="d0">Career</data>
+</node>
+<node id="Graphic Design Cultures">
+  <data key="d0">Course</data>
+</node>
+<node id="Modernism, Postmodernism, Contemporary Design">
+  <data key="d0">Topic</data>
+</node>
+<node id="Design History">
+  <data key="d0">Skill</data>
+</node>
+<node id="Critical Theory">
+  <data key="d0">Skill</data>
+</node>
+<node id="Cultural Context">
+  <data key="d0">Skill</data>
+</node>
+<node id="Design Writer">
+  <data key="d0">Career</data>
+</node>
+<node id="Curator">
+  <data key="d0">Career</data>
+</node>
+<node id="Design Educator">
+  <data key="d0">Career</data>
+</node>
+<node id="Graphic Design Communication Workshops">
+  <data key="d0">Course</data>
+</node>
+<node id="Advanced Digital Tools, Pre-press">
+  <data key="d0">Topic</data>
+</node>
+<node id="Advanced Software Skills (Adobe Creative Suite)">
+  <data key="d0">Skill</data>
+</node>
+<node id="Prototyping">
+  <data key="d0">Skill</data>
+</node>
+<node id="Production Artist">
+  <data key="d0">Career</data>
+</node>
+<node id="Digital Designer">
+  <data key="d0">Career</data>
+</node>
+<node id="Graphic Design Practice">
+  <data key="d0">Course</data>
+</node>
+<node id="Professional Practice, Client Relations">
+  <data key="d0">Topic</data>
+</node>
+<node id="Client Briefing">
+  <data key="d0">Skill</data>
+</node>
+<node id="Portfolio Development">
+  <data key="d0">Skill</data>
+</node>
+<node id="Freelance Designer">
+  <data key="d0">Career</data>
+</node>
+<node id="Studio Designer">
+  <data key="d0">Career</data>
+</node>
+<node id="Graphic Design Professional Practice">
+  <data key="d0">Course</data>
+</node>
+<node id="Running a Design Business, Professional Ethics">
+  <data key="d0">Topic</data>
+</node>
+<node id="Self-Promotion">
+  <data key="d0">Skill</data>
+</node>
+<node id="Networking">
+  <data key="d0">Skill</data>
+</node>
+<node id="Business of Design">
+  <data key="d0">Skill</data>
+</node>
+<node id="Art Director">
+  <data key="d0">Career</data>
+</node>
+<node id="Senior Graphic Designer">
+  <data key="d0">Career</data>
+</node>
+<node id="Studio Manager">
+  <data key="d0">Career</data>
+</node>
+<node id="Graphic Design Major Projects">
+  <data key="d0">Course</data>
+</node>
+<node id="Self-Directed Project, Portfolio Showcase">
+  <data key="d0">Topic</data>
+</node>
+<node id="Concept Development">
+  <data key="d0">Skill</data>
+</node>
+<node id="Exhibition Design">
+  <data key="d0">Skill</data>
+</node>
+<node id="Specialist Designer (e.g.">
+  <data key="d0">Career</data>
+</node>
+<node id="Branding">
+  <data key="d0">Career</data>
+</node>
+<node id="UI/UX)">
+  <data key="d0">Career</data>
+</node>
+<node id="Design Lead">
+  <data key="d0">Career</data>
+</node>
+<edge source="BSc (Hons) Information Technology" target="Information in Organisations">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Information Technology" target="Emerging Technologies in Practice">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Information Technology" target="Introduction to Programming">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Information Technology" target="Computing Systems Architecture and Operating Systems">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Information Technology" target="Web Applications and Databases">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Information Technology" target="Project Management and Professional Practice">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Information Technology" target="Data Management and Business Intelligence">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Information Technology" target="Web-based Mobile App Development">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Information Technology" target="UG Individual Project">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Information Technology" target="Strategic Management and Information Systems">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Information in Organisations" target="Database Systems, Information Management">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Information in Organisations" target="Database Design">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Information in Organisations" target="SQL">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Information in Organisations" target="Data Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Information in Organisations" target="IT Consultant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Information in Organisations" target="Database Administrator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Information in Organisations" target="Systems Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Information in Organisations" target="Information Systems, Organisational Structure">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Information in Organisations" target="Database concepts">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Information in Organisations" target="Information Systems theory">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Information in Organisations" target="Business Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Information in Organisations" target="Junior IT Consultant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Information in Organisations" target="BSc (Hons) Business Information Systems">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Database Design" target="Database Systems: Design and Implementation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="SQL" target="Database Systems: Design and Implementation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Database Administrator" target="Database Systems: Design and Implementation">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Systems Analyst" target="Foundations of Informatics">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Systems Analyst" target="Information Systems Analysis and Design">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Emerging Technologies in Practice" target="Artificial Intelligence, Internet of Things, Immersive Technologies">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Emerging Technologies in Practice" target="AI Concepts">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Emerging Technologies in Practice" target="IoT">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Emerging Technologies in Practice" target="VR/AR">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Emerging Technologies in Practice" target="Robotics">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Emerging Technologies in Practice" target="Design Thinking">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Emerging Technologies in Practice" target="Technology Strategist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Emerging Technologies in Practice" target="IT Researcher">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Emerging Technologies in Practice" target="Product Innovator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Introduction to Programming" target="Foundational Programming, Algorithms">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Introduction to Programming" target="Programming Logic">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Introduction to Programming" target="Python">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Introduction to Programming" target="Problem-Solving">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Introduction to Programming" target="Software Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Introduction to Programming" target="Junior Programmer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Python" target="Computing Systems Architecture and Operating Systems">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Python" target="Programming for Data Communications and Networks">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Problem-Solving" target="Marketing Consultancy Project">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Computing Systems Architecture and Operating Systems" target="Computer Architecture, Operating Systems, Networking Fundamentals">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Computing Systems Architecture and Operating Systems" target="C Programming">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Computing Systems Architecture and Operating Systems" target="Bash">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Computing Systems Architecture and Operating Systems" target="Systems Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Computing Systems Architecture and Operating Systems" target="Systems Administrator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Computing Systems Architecture and Operating Systems" target="Network Engineer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Systems Analysis" target="Strategic Management and Information Systems">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Systems Analysis" target="Information Systems Analysis and Design">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Web Applications and Databases" target="Web Application Architecture, Database Management">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Web Applications and Databases" target="Web Development">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Web Applications and Databases" target="Database Integration">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Web Applications and Databases" target="Server-Side Scripting">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Web Applications and Databases" target="Web Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Web Applications and Databases" target="Full-Stack Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Project Management and Professional Practice" target="IT Project Lifecycle, Professionalism in IT">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Project Management and Professional Practice" target="Project Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Project Management and Professional Practice" target="Agile/Scrum">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Project Management and Professional Practice" target="Professional Ethics">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Project Management and Professional Practice" target="IT Project Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Project Management and Professional Practice" target="Scrum Master">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Project Management and Professional Practice" target="Tech Consultant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Project Management" target="UG Individual Project">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Project Management" target="Strategic Information Systems Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Project Management" target="Graphic Design Practice">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Management and Business Intelligence" target="Business Intelligence, Data Management">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Data Management and Business Intelligence" target="Data Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Management and Business Intelligence" target="Business Intelligence Tools">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Management and Business Intelligence" target="Data Warehousing">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Management and Business Intelligence" target="Data Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Data Management and Business Intelligence" target="BI Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Data Management and Business Intelligence" target="Business Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Data Analysis" target="Data Science and Machine Learning">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Analysis" target="Data and Digital Technologies">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Analysis" target="Market Research and Insights">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Warehousing" target="Business Intelligence">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Analyst" target="Business Intelligence">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Data Analyst" target="Research Methods and Design in Psychology">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Data Analyst" target="Data and Digital Technologies">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Business Analyst" target="Information Systems Analysis and Design">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Web-based Mobile App Development" target="Mobile Application Design, Web-to-Mobile Technologies">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Web-based Mobile App Development" target="Mobile App Development">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Web-based Mobile App Development" target="Cross-Platform Development">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Web-based Mobile App Development" target="Mobile Application Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Web-based Mobile App Development" target="UI/UX Designer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="UG Individual Project" target="(Varies by project)">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="UG Individual Project" target="Research">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="UG Individual Project" target="Technical Writing">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Strategic Management and Information Systems" target="Information Systems Strategy, IT Governance">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Strategic Management and Information Systems" target="Strategic Planning">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Strategic Management and Information Systems" target="IT Strategy">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Strategic Management and Information Systems" target="IT Strategy Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Strategic Management and Information Systems" target="Management Consultant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="IT Strategy" target="Strategic Information Systems Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management Consultant" target="Strategic Management">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BSc (Hons) Business Information Systems" target="Foundations of Informatics">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Business Information Systems" target="Information Systems Analysis and Design">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Business Information Systems" target="Database Systems: Design and Implementation">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Business Information Systems" target="Strategic Information Systems Management">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Business Information Systems" target="Business Intelligence">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Foundations of Informatics" target="Informatics, Systems Development Lifecycle">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Foundations of Informatics" target="Systems analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Foundations of Informatics" target="Programming fundamentals">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Foundations of Informatics" target="Junior Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Information Systems Analysis and Design" target="Systems Design Methodologies, Requirements Gathering">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Information Systems Analysis and Design" target="UML">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Information Systems Analysis and Design" target="Process Modelling">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Database Systems: Design and Implementation" target="Relational Databases, Database Management">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Database Systems: Design and Implementation" target="Normalisation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Database Systems: Design and Implementation" target="Data Modeler">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Strategic Information Systems Management" target="Enterprise Systems, IT Governance">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Strategic Information Systems Management" target="Governance">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Strategic Information Systems Management" target="IT Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Strategic Information Systems Management" target="Technology Consultant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Business Intelligence" target="Decision Support Systems, Business Analytics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Business Intelligence" target="Data Mining">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Business Intelligence" target="BI Tools">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Business Intelligence" target="BI Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BSc (Hons) Cyber Security and Digital Forensics" target="Programming for Data Communications and Networks">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Cyber Security and Digital Forensics" target="Computer Networks">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Cyber Security and Digital Forensics" target="Network and Protocol Analysis">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Cyber Security and Digital Forensics" target="Cyber Security and Digital Forensic Compliance">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Cyber Security and Digital Forensics" target="Defensive Security">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Cyber Security and Digital Forensics" target="Memory Analysis">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Programming for Data Communications and Networks" target="Network Protocols, Secure Coding">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Programming for Data Communications and Networks" target="Network Programming">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Programming for Data Communications and Networks" target="Data Structures">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Programming for Data Communications and Networks" target="Junior Security Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Programming for Data Communications and Networks" target="Network Programmer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Network Programmer" target="Operating Systems and Computer Networks">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Computer Networks" target="LAN/WAN Technologies, Network Models">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Computer Networks" target="Network architecture">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Computer Networks" target="TCP/IP">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Computer Networks" target="Routing &amp; Switching">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Computer Networks" target="Network Administrator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Computer Networks" target="Junior Network Engineer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Network and Protocol Analysis" target="Network Traffic Analysis, Protocol Security">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Network and Protocol Analysis" target="Packet analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Network and Protocol Analysis" target="Wireshark">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Network and Protocol Analysis" target="Intrusion Detection">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Network and Protocol Analysis" target="Security Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Network and Protocol Analysis" target="Network Forensics Investigator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Cyber Security and Digital Forensic Compliance" target="Information Security Standards, Cyber Law">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Cyber Security and Digital Forensic Compliance" target="Security Policies">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Cyber Security and Digital Forensic Compliance" target="ISO 27001">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Cyber Security and Digital Forensic Compliance" target="Legal Frameworks">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Cyber Security and Digital Forensic Compliance" target="Compliance Officer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Cyber Security and Digital Forensic Compliance" target="Security Auditor">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Defensive Security" target="Network Defence, Security Information and Event Management">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Defensive Security" target="Firewalls">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Defensive Security" target="IDS/IPS">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Defensive Security" target="SIEM tools">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Defensive Security" target="Threat Hunting">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Defensive Security" target="Security Operations Center (SOC) Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Defensive Security" target="Security Engineer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Memory Analysis" target="Live System Forensics, Malware Analysis">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Memory Analysis" target="Volatile data collection">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Memory Analysis" target="Memory forensics tools">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Memory Analysis" target="Digital Forensics Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Memory Analysis" target="Incident Responder">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BSc (Hons) Computer Science" target="Programming">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Computer Science" target="Design and Development of Applications">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Computer Science" target="Operating Systems and Computer Networks">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Computer Science" target="Data Science and Machine Learning">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Computer Science" target="Advanced Topics in Data Science and Artificial Intelligence">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Programming" target="Object-Oriented Programming, Data Structures">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Programming" target="Programming Fundamentals (e.g.">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Programming" target="Python)">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Programming" target="Logic">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Programming" target="Algorithms">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Programming" target="Junior Software Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Programming" target="Application Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Design and Development of Applications" target="Prototyping, Application Design">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Design and Development of Applications" target="Software Development Lifecycle">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Design and Development of Applications" target="UI/UX Design">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Design and Development of Applications" target="Software Engineer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Design and Development of Applications" target="UI/UX Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Operating Systems and Computer Networks" target="Process Management, Network Architecture">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Operating Systems and Computer Networks" target="OS Concepts">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Operating Systems and Computer Networks" target="Concurrency">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Operating Systems and Computer Networks" target="Network Protocols">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Operating Systems and Computer Networks" target="Systems Engineer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Data Science and Machine Learning" target="Supervised/Unsupervised Learning, Data Modelling">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Data Science and Machine Learning" target="Machine Learning Algorithms">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Science and Machine Learning" target="Python (Pandas">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Science and Machine Learning" target="Scikit-learn)">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data Science and Machine Learning" target="Data Scientist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Data Science and Machine Learning" target="Machine Learning Engineer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Data Scientist" target="Advanced Topics in Data Science and Artificial Intelligence">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Advanced Topics in Data Science and Artificial Intelligence" target="Neural Networks, AI Ethics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Advanced Topics in Data Science and Artificial Intelligence" target="Deep Learning">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Advanced Topics in Data Science and Artificial Intelligence" target="Natural Language Processing (NLP)">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Advanced Topics in Data Science and Artificial Intelligence" target="AI Specialist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BSc (Hons) Computer Science (AI Pathway)" target="Artificial Intelligence">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Artificial Intelligence" target="Heuristics, Logic Programming">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Artificial Intelligence" target="Search Algorithms">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Artificial Intelligence" target="Knowledge Representation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Artificial Intelligence" target="AI Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Artificial Intelligence" target="Robotics Engineer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BSc (Hons) Computer Science (Cloud Pathway)" target="Cloud Computing">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Cloud Computing" target="IaaS, PaaS, SaaS, Microservices">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Cloud Computing" target="AWS/Azure/GCP">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Cloud Computing" target="Virtualization">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Cloud Computing" target="Containers">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Cloud Computing" target="Cloud Engineer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Cloud Computing" target="DevOps Engineer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BSc (Hons) Computer Science (Games Pathway)" target="Games Programming">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Games Programming" target="Real-time Rendering, Gameplay Mechanics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Games Programming" target="Game Engines (Unity/Unreal)">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Games Programming" target="3D Graphics">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Games Programming" target="Game Physics">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Games Programming" target="Game Developer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Games Programming" target="Graphics Programmer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BSc (Hons) Psychology with..." target="Mind &amp; Behaviour in Context">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Psychology with..." target="Research Methods and Design in Psychology">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Psychology with..." target="Social, Personality, and Developmental Psychology">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Psychology with..." target="Brain, Body and Mind">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Psychology with..." target="Psychology Dissertation">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Mind &amp; Behaviour in Context" target="Introduction to Psychology, Biopsychology, Cognition">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Mind &amp; Behaviour in Context" target="Foundational Psychology Knowledge">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Mind &amp; Behaviour in Context" target="Critical Thinking">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Research Methods and Design in Psychology" target="Quantitative &amp; Qualitative Methods, Ethics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Research Methods and Design in Psychology" target="Research Design">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Research Methods and Design in Psychology" target="Statistical Analysis (SPSS)">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Research Methods and Design in Psychology" target="Report Writing">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Research Methods and Design in Psychology" target="Research Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Social, Personality, and Developmental Psychology" target="Social Influence, Personality Theories, Child Development">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Social, Personality, and Developmental Psychology" target="Interpersonal Dynamics">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Social, Personality, and Developmental Psychology" target="Lifespan Development Theory">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Social, Personality, and Developmental Psychology" target="Social Work Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Social, Personality, and Developmental Psychology" target="HR Coordinator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Brain, Body and Mind" target="Cognitive Neuroscience, Psychophysiology">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Brain, Body and Mind" target="Neuropsychology">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Brain, Body and Mind" target="Biological basis of behaviour">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Brain, Body and Mind" target="Lab Technician">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Brain, Body and Mind" target="Clinical Research Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Psychology Dissertation" target="Specialized topic chosen by student">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Psychology Dissertation" target="Independent Research">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Psychology Dissertation" target="Advanced Data Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Psychology Dissertation" target="Academic Writing">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Independent Research" target="Graphic Design Major Projects">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="BSc (Hons) Psychology with Counselling Skills" target="Counselling Theory and Practice">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Counselling Theory and Practice" target="Person-Centred Therapy, CBT, Psychodynamic Theory">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Counselling Theory and Practice" target="Active Listening">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Counselling Theory and Practice" target="Empathy">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Counselling Theory and Practice" target="Counselling Frameworks">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Counselling Theory and Practice" target="Counsellor (with further training)">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Counselling Theory and Practice" target="Mental Health Support Worker">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BSc (Hons) Psychology with Human Resource Management" target="Organisational Behaviour / Work Psychology">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Organisational Behaviour / Work Psychology" target="Workplace Motivation, Leadership Styles, Personnel Selection">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Organisational Behaviour / Work Psychology" target="Team Dynamics">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Organisational Behaviour / Work Psychology" target="Motivation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Organisational Behaviour / Work Psychology" target="Leadership">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Organisational Behaviour / Work Psychology" target="Recruitment">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Organisational Behaviour / Work Psychology" target="HR Specialist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Organisational Behaviour / Work Psychology" target="Organisational Development Coordinator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Team Dynamics" target="Organisational Behaviour">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Motivation" target="Organisational Behaviour">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Leadership" target="Organisational Behaviour">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Recruitment" target="Human Resource Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="BSc (Hons) Psychology with Marketing" target="Consumer Behaviour">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Consumer Behaviour" target="Psychology of Advertising, Neuromarketing">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Consumer Behaviour" target="Market Research">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Consumer Behaviour" target="Buyer Decision Processes">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Consumer Behaviour" target="Branding Psychology">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Consumer Behaviour" target="Market Researcher">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Consumer Behaviour" target="Brand Strategist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Consumer Behaviour" target="Advertising Planner">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Consumer Behaviour" target="Marketing Theory and Practice">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Market Research" target="Market Research and Insights">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="BSc (Hons) Psychology with Education" target="Psychology in Education">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Psychology in Education" target="Cognitive Development in Education, Educational Neuroscience">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Psychology in Education" target="Learning Theories">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Psychology in Education" target="Classroom Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Psychology in Education" target="Child Development">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Psychology in Education" target="Educational Psychologist (with further training)">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Psychology in Education" target="Learning Support Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BA (Hons) Business Management" target="Management in the Global Environment">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Business Management" target="Marketing Theory and Practice">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Business Management" target="Operations Management">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Business Management" target="Organisational Behaviour">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Business Management" target="Strategic Management">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Management in the Global Environment" target="Organisational Theory, Business Ethics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Management in the Global Environment" target="Business Functions">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management in the Global Environment" target="Org. Structure">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management in the Global Environment" target="CSR">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management in the Global Environment" target="Management Trainee">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Management in the Global Environment" target="Junior Business Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Management in the Global Environment" target="Globalization, International Trade">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Management in the Global Environment" target="Cross-cultural awareness">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management in the Global Environment" target="Global market analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management in the Global Environment" target="International Sales Trainee">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Management in the Global Environment" target="Export Coordinator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Management in the Global Environment" target="BA (Hons) International Business">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Management in the Global Environment" target="Globalization, International Management">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Management in the Global Environment" target="Cross-Cultural Communication">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management in the Global Environment" target="Global Business Strategy">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management in the Global Environment" target="International Business Development">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Management in the Global Environment" target="BA (Hons) Marketing">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Principles of Marketing, Market Analysis">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Marketing Mix">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Market Segmentation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="SWOT Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Marketing Coordinator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Sales Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Foundational Marketing, Marketing Environment">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Market Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Marketing Principles">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Marketing Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="Brand Coordinator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Marketing Theory and Practice" target="BA (Hons) Marketing">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Operations Management" target="Logistics, Lean Manufacturing, Quality Management">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Operations Management" target="Supply Chain">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Operations Management" target="Quality Control">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Operations Management" target="Process Improvement">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Operations Management" target="Operations Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Operations Management" target="Supply Chain Coordinator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Organisational Behaviour" target="Workplace Psychology, Group Dynamics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Organisational Behaviour" target="HR Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Organisational Behaviour" target="Corporate Trainer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Strategic Management" target="Corporate Strategy, PESTLE/Porter's Five Forces">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Strategic Management" target="Strategic Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Strategic Management" target="Competitive Strategy">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Strategic Management" target="Business Strategist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BA (Hons) Business Management (Finance Pathway)" target="Business Finance">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Business Finance" target="Corporate Finance, Financial Markets">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Business Finance" target="Investment Appraisal">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Business Finance" target="Capital Budgeting">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Business Finance" target="Risk Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Business Finance" target="Financial Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Business Finance" target="Corporate Finance Trainee">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Investment Appraisal" target="Management Accounting">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Analyst" target="Financial Performance Management">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BA (Hons) Business Management (HRM Pathway)" target="Human Resource Management">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Human Resource Management" target="Talent Management, Employment Law">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Human Resource Management" target="Training &amp; Development">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Human Resource Management" target="Employee Relations">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Human Resource Management" target="HR Officer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Human Resource Management" target="Recruiter">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Human Resource Management" target="L&amp;D Coordinator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BA (Hons) International Business" target="International Business Environment">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) International Business" target="Global Strategic Management">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="International Business Environment" target="Political &amp; Economic Risk, International Trade Law">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="International Business Environment" target="PESTLE Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="International Business Environment" target="Foreign Market Entry Strategy">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="International Business Environment" target="International Business Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="International Business Environment" target="Market Entry Specialist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Global Strategic Management" target="Multinational Enterprise Strategy, Global Value Chains">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Global Strategic Management" target="Global Strategy Formulation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Global Strategic Management" target="M&amp;A">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Global Strategic Management" target="Alliances">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Global Strategic Management" target="Global Strategist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Global Strategic Management" target="International Management Consultant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BA (Hons) International Tourism Management" target="The International Tourism Industry and Employability">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) International Tourism Management" target="Responsible Tourism Management">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) International Tourism Management" target="Tourism Policy Making">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) International Tourism Management" target="Creative Branding in Tourism">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="The International Tourism Industry and Employability" target="Structure of Tourism, Tourism Economics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="The International Tourism Industry and Employability" target="Tourism Sector Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="The International Tourism Industry and Employability" target="Career Planning">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="The International Tourism Industry and Employability" target="Tourism Officer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="The International Tourism Industry and Employability" target="Travel Agent">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Responsible Tourism Management" target="Sustainable Development, Community-based Tourism">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Responsible Tourism Management" target="Sustainability">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Responsible Tourism Management" target="Ecotourism">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Responsible Tourism Management" target="CSR in Tourism">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Responsible Tourism Management" target="Sustainability Coordinator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Responsible Tourism Management" target="Responsible Tourism Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Tourism Policy Making" target="Governance in Tourism, Destination Planning">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Tourism Policy Making" target="Policy Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Tourism Policy Making" target="Stakeholder Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Tourism Policy Making" target="Tourism Policy Advisor">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Tourism Policy Making" target="Destination Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Creative Branding in Tourism" target="Place Branding, Tourism Marketing">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Creative Branding in Tourism" target="Destination Branding">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Creative Branding in Tourism" target="Digital Marketing">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Creative Branding in Tourism" target="Niche Tourism">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Creative Branding in Tourism" target="Destination Marketing Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Creative Branding in Tourism" target="Tourism Brand Strategist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Digital Marketing" target="Marketing and Digital Strategy">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="BA (Hons) Accounting and Finance" target="Financial Accounting">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Accounting and Finance" target="Management Accounting">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Accounting and Finance" target="Financial Reporting">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Accounting and Finance" target="Taxation">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Accounting and Finance" target="Audit and Assurance">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Accounting and Finance" target="Financial Management">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Financial Accounting" target="IFRS, Accounting Principles">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Financial Accounting" target="Bookkeeping">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Accounting" target="Double-Entry">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Accounting" target="Financial Statement Preparation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Accounting" target="Junior Accountant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Financial Accounting" target="Accounts Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Management Accounting" target="Cost-Volume-Profit Analysis, Budgetary Control">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Management Accounting" target="Costing">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management Accounting" target="Budgeting">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management Accounting" target="CVP Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Management Accounting" target="Trainee Management Accountant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Management Accounting" target="Cost Accountant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Budgeting" target="Financial Performance Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Reporting" target="Consolidated Financial Statements, Advanced IFRS">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Financial Reporting" target="Advanced Financial Statements">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Reporting" target="Group Accounts">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Reporting" target="Financial Accountant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Financial Reporting" target="Audit Associate">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Taxation" target="Income Tax, Corporation Tax, VAT">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Taxation" target="Personal &amp; Corporate Tax Calculation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Taxation" target="Tax Law">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Taxation" target="Tax Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Taxation" target="Junior Tax Advisor">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Audit and Assurance" target="International Standards on Auditing (ISAs), Audit Ethics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Audit and Assurance" target="Audit Process">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Audit and Assurance" target="Internal Controls">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Audit and Assurance" target="Audit Risk">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Audit and Assurance" target="Audit Trainee">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Audit and Assurance" target="Internal Auditor">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Financial Management" target="Advanced Corporate Finance, Risk Management">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Financial Management" target="Working Capital Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Management" target="Mergers &amp; Acquisitions">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Management" target="Corporate Finance Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Financial Management" target="Treasury Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BSc (Hons) Business Accounting" target="Corporate Responsibility and Ethics">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Business Accounting" target="Accounting Information Systems">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Business Accounting" target="Applied Financial Accounting">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BSc (Hons) Business Accounting" target="Artificial Intelligence and Data Analytics">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Corporate Responsibility and Ethics" target="Business Ethics, Corporate Governance">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Corporate Responsibility and Ethics" target="Stakeholder Theory">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Corporate Responsibility and Ethics" target="Ethical Frameworks">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Corporate Responsibility and Ethics" target="CSR Reporting">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Corporate Responsibility and Ethics" target="CSR Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Corporate Responsibility and Ethics" target="Ethics Officer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Accounting Information Systems" target="Enterprise Resource Planning, AIS Design">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Accounting Information Systems" target="ERP Systems">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Accounting Information Systems" target="Data Analytics in Accounting">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Accounting Information Systems" target="System Controls">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Accounting Information Systems" target="Systems Accountant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Accounting Information Systems" target="IT Auditor">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Applied Financial Accounting" target="Advanced Financial Reporting Standards">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Applied Financial Accounting" target="Complex Financial Instruments">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Applied Financial Accounting" target="IFRS Application">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Applied Financial Accounting" target="Technical Accountant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Applied Financial Accounting" target="Financial Reporting Specialist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Artificial Intelligence and Data Analytics" target="AI in Auditing, Predictive Analytics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Artificial Intelligence and Data Analytics" target="Machine Learning in Finance">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Artificial Intelligence and Data Analytics" target="Data Visualisation (Tableau/PowerBI)">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Artificial Intelligence and Data Analytics" target="Finance Data Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Artificial Intelligence and Data Analytics" target="Forensic Accountant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BA (Hons) Marketing" target="Financial Performance Management">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Marketing" target="Data and Digital Technologies">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Marketing" target="Market Research and Insights">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Marketing" target="Consumer Behaviour and Socially Responsible Consumption">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Marketing" target="Marketing and Digital Strategy">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Marketing" target="Customer Experience Management">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Marketing" target="Branding and Marketing Communications">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Marketing" target="Marketing Consultancy Project">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Financial Performance Management" target="Business Finance, Accounting Principles">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Financial Performance Management" target="Financial Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Performance Management" target="Performance Metrics">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Financial Performance Management" target="Marketing Accountant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Data and Digital Technologies" target="Business Data, Digital Transformation">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Data and Digital Technologies" target="Digital Literacy">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data and Digital Technologies" target="Information Systems">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Data and Digital Technologies" target="Digital Marketing Assistant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Market Research and Insights" target="Quantitative &amp; Qualitative Research, Data Interpretation">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Market Research and Insights" target="Survey Design">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Market Research and Insights" target="Market Research Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Market Research and Insights" target="Consumer Insights Analyst">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Consumer Behaviour and Socially Responsible Consumption" target="Consumer Decision Making, Sustainable Marketing">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Consumer Behaviour and Socially Responsible Consumption" target="Consumer Psychology">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Consumer Behaviour and Socially Responsible Consumption" target="Ethical Marketing">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Consumer Behaviour and Socially Responsible Consumption" target="Trend Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Consumer Behaviour and Socially Responsible Consumption" target="Brand Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Consumer Behaviour and Socially Responsible Consumption" target="Consumer Insights Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Brand Manager" target="Branding and Marketing Communications">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Marketing and Digital Strategy" target="Digital Marketing Channels, Strategic Planning">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Marketing and Digital Strategy" target="SEO/SEM">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Marketing and Digital Strategy" target="Content Strategy">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Marketing and Digital Strategy" target="Digital Marketing Strategist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Marketing and Digital Strategy" target="SEO Specialist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Customer Experience Management" target="Customer Relationship Management, Service Quality">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Customer Experience Management" target="Customer Journey Mapping">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Customer Experience Management" target="CRM">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Customer Experience Management" target="Service Design">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Customer Experience Management" target="CX Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Customer Experience Management" target="CRM Specialist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Customer Experience Management" target="Account Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Branding and Marketing Communications" target="Brand Identity, IMC Campaigns, Public Relations">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Branding and Marketing Communications" target="Brand Strategy">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Branding and Marketing Communications" target="Integrated Marketing Communications (IMC)">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Branding and Marketing Communications" target="Advertising">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Branding and Marketing Communications" target="Communications Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Branding and Marketing Communications" target="Advertising Executive">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Marketing Consultancy Project" target="Consultancy, Project-Based Work">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Marketing Consultancy Project" target="Client Management">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Marketing Consultancy Project" target="Consulting">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Marketing Consultancy Project" target="Marketing Consultant">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Marketing Consultancy Project" target="Business Advisor">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="BA (Hons) Graphic Design" target="Understanding Visual Communication">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Graphic Design" target="Graphic Design Creative Workshops">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Graphic Design" target="Creative Typography">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Graphic Design" target="Design Exploration">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Graphic Design" target="Graphic Design Cultures">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Graphic Design" target="Graphic Design Communication Workshops">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Graphic Design" target="Graphic Design Practice">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Graphic Design" target="Graphic Design Professional Practice">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="BA (Hons) Graphic Design" target="Graphic Design Major Projects">
+  <data key="d1">IS_PART_OF</data>
+</edge>
+<edge source="Understanding Visual Communication" target="Visual Culture, Design History">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Understanding Visual Communication" target="Visual Analysis">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Understanding Visual Communication" target="Semiotics">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Understanding Visual Communication" target="Design Theory">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Understanding Visual Communication" target="Design Critic">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Understanding Visual Communication" target="Design Researcher">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Creative Workshops" target="Analogue and Digital Design Processes">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Graphic Design Creative Workshops" target="Printmaking">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Creative Workshops" target="Photography">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Creative Workshops" target="Digital Illustration">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Creative Workshops" target="Typography">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Creative Workshops" target="Graphic Designer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Creative Workshops" target="Illustrator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Creative Workshops" target="Print Designer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Typography" target="Creative Typography">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Designer" target="Creative Typography">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Creative Typography" target="Type Anatomy, Typographic Hierarchy">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Creative Typography" target="Layout Design">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Creative Typography" target="Font Pairing">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Creative Typography" target="Typographer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Creative Typography" target="Editorial Designer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Design Exploration" target="Design Process, Brainstorming Techniques">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Design Exploration" target="Ideation">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Design Exploration" target="Sketching">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Design Exploration" target="Creative Problem-Solving">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Design Exploration" target="Concept Artist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Design Exploration" target="Junior Designer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Cultures" target="Modernism, Postmodernism, Contemporary Design">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Graphic Design Cultures" target="Design History">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Cultures" target="Critical Theory">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Cultures" target="Cultural Context">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Cultures" target="Design Writer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Cultures" target="Curator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Cultures" target="Design Educator">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Communication Workshops" target="Advanced Digital Tools, Pre-press">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Graphic Design Communication Workshops" target="Advanced Software Skills (Adobe Creative Suite)">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Communication Workshops" target="Prototyping">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Communication Workshops" target="Production Artist">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Communication Workshops" target="Digital Designer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Practice" target="Professional Practice, Client Relations">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Graphic Design Practice" target="Client Briefing">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Practice" target="Portfolio Development">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Practice" target="Freelance Designer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Practice" target="Studio Designer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Professional Practice" target="Running a Design Business, Professional Ethics">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Graphic Design Professional Practice" target="Self-Promotion">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Professional Practice" target="Networking">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Professional Practice" target="Business of Design">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Professional Practice" target="Art Director">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Professional Practice" target="Senior Graphic Designer">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Professional Practice" target="Studio Manager">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Major Projects" target="Self-Directed Project, Portfolio Showcase">
+  <data key="d1">COVERS</data>
+</edge>
+<edge source="Graphic Design Major Projects" target="Concept Development">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Major Projects" target="Exhibition Design">
+  <data key="d1">DEVELOPS</data>
+</edge>
+<edge source="Graphic Design Major Projects" target="Specialist Designer (e.g.">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Major Projects" target="Branding">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Major Projects" target="UI/UX)">
+  <data key="d1">LEADS_TO</data>
+</edge>
+<edge source="Graphic Design Major Projects" target="Design Lead">
+  <data key="d1">LEADS_TO</data>
+</edge>
+</graph></graphml>
