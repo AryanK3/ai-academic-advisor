@@ -6,10 +6,11 @@ from collections import Counter
 import pandas as pd
 import numpy as np
 import ast 
+import json 
 
 st.set_page_config(
-    page_title="🎓 AI Academic Advisor",
-    page_icon="🧠",
+    page_title="AI Academic Advisor",
+    page_icon="🎓",
     layout="wide"
 )
 
@@ -107,12 +108,28 @@ def find_courses_for_skill(skill_name: str) -> str:
     """Finds all courses that teach a specific skill."""
     verified_skill, suggestions = find_closest_node(skill_name, "Skill", score_cutoff=0.75)
     if not verified_skill:
-        return f"I couldn't find an exact match for the skill '{skill_name}'. Did you mean one of these? {', '.join(suggestions)}" if suggestions else f"Sorry, I couldn't find any skill matching '{skill_name}'."
-    
+        if suggestions:
+            return json.dumps({
+                "status": "suggestions_found",
+                "original_query": skill_name,
+                "suggestions": suggestions
+            })
+        else:
+            return json.dumps({
+                "status": "error",
+                "message": f"Sorry, I couldn't find any skill matching '{skill_name}'."
+            })    
     courses = sorted([p for p, _ in G.in_edges(verified_skill) if G.nodes[p].get('type') == 'Course'])
     if not courses:
-        return f"No courses were found that teach the skill: **{verified_skill}**."
-    return f"The following courses teach **{verified_skill}**:\n" + "\n".join(f"- {c}" for c in courses)
+        return json.dumps({
+            "status": "error",
+            "message": f"No courses were found that teach the skill: {verified_skill}."
+        })    
+    return json.dumps({
+        "status": "success",
+        "skill": verified_skill,
+        "courses": courses
+    })
 
 def find_programs_for_career(career_name: str) -> str:
     """Finds academic programs that prepare students for a specific career."""
@@ -300,32 +317,29 @@ def find_courses_combining_two_skills(skill_1_name: str, skill_2_name: str) -> s
 SYSTEM_PROMPT = """
 You are a helpful and clever AI Academic Advisor. Your primary goal is to provide accurate, relevant information by using tools that connect to a university's knowledge graph.
 
-**IMPORTANT: Your most critical task is to expand abbreviations, informal terms, or partial names into their full, formal versions before calling any tool.** This is essential for matching with the formal names in the knowledge graph.
-- For instance, if a user asks about 'CS', you must expand it to 'Computer Science' in the tool call.
-
-Apply this expansion logic broadly using the following examples as a guide:
+**IMPORTANT: Your most critical task is to expand abbreviations, informal terms, or partial names into their full, formal versions before calling any tool.**
 -   CS → Computer Science
 -   AI → Artificial Intelligence
--   ML → Machine Learning
--   Data Sci → Data Science
--   Web Dev → Web Development
--   Cyber Sec → Cybersecurity
--   DB → Database
--   Bus → Business
--   Econ → Economics
--   Stats → Statistics
+-   Bus -> Business
 
-**Conversation and Error Handling Strategy:**
-Here is how you MUST handle conversations:
+---
+**CRITICAL RULES for Handling Tool Suggestions**
+1.  **DO NOT ALTER SUGGESTIONS:** If a tool provides a list of suggestions, you MUST present these suggestions to the user in a numbered or bulleted list, exactly as they are given to you. DO NOT rephrase, combine, or add any extra context to the suggestion strings themselves.
+2.  **HANDLE USER SELECTIONS INTELLIGENTLY:** The user may select an option by copying it, or by referring to its position (e.g., "the first one," "yeah number 2," "1"). You MUST correctly identify which suggestion they mean.
+3.  **USE SELECTION VERBATIM:** Once you have identified which option the user selected, you MUST use the exact, unmodified string of that original suggestion in your next tool call.
+---
 
-1.  If the user's query is ambiguous and a tool provides a list of suggestions, you must present these suggestions clearly to the user and ask them to clarify.
-2.  When the user selects an option you've provided, you MUST treat that selection as the correct and verified entity for the next tool call.
-3.  **Crucially, you must avoid asking the user the same question repeatedly.** If you have provided a list of options, the user picks one, and the tool still fails or returns the same suggestions, do not repeat the question. Instead, assume there is a temporary system error. Apologize to the user for the technical difficulty and ask them to try a different, related query.
+**Error Handling:**
+- If the user's choice is ambiguous, ask for clarification.
+- If you have followed the critical rules, the user has picked a valid option, and the tool still fails, then apologize for a technical difficulty.---
+
+**Error Handling:**
+- If you have followed the critical rules above, the user has picked a valid option, and the tool still fails, then and only then should you apologize for a technical difficulty and suggest a different query.
 """
 
 # --- Streamlit UI and Chat Logic ---
 
-st.title("🎓 AI Academic Advisor (Semantic Search)")
+st.title("🎓 AI Academic Advisor")
 st.caption("I am an AI assistant powered by your university's Knowledge Graph. Ask me anything!")
 
 st.sidebar.title("Example Questions")
